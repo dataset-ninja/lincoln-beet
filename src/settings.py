@@ -57,7 +57,7 @@ REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = {"Kaggle":"https:/
 
 CITATION_URL: Optional[str] = "https://arxiv.org/abs/2109.11048"
 AUTHORS: Optional[List[str]] = ["Adrian Salazar-Gomez", "Madeleine Darbyshire", "Junfeng Gao", "Elizabeth I Sklar", "Simon Parsons"]
-AUTHORS_CONTACTS: Optional[List[str]] = None
+AUTHORS_CONTACTS: Optional[List[str]] = ["asalazargomez@lincoln.ac.uk"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = ["University of Lincoln, UK"]
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = ["https://www.lincoln.ac.uk/"]
